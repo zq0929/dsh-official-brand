@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-official-brand
+      name: '@local/dsh-official-brand'
